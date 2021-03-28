@@ -1,4 +1,4 @@
-Copyright 2020 Stephen D. Rogers
+Copyright 2020-2021 Stephen D. Rogers
 
 Licensed under the BSD 3-Clause License (the "License"); you may not use
 this file except in compliance with the License.  You may obtain a copy of
@@ -13,7 +13,4 @@ limitations under the License.
 
 This code base has the following third-party source code dependencies:
 
-- Some functions have been copied from `snippets--sh` by Stephen D. Rogers
-```
-  <https://github.com/sdr01810/snippets--sh.git>
-```
+- None yet
